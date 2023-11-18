@@ -8,6 +8,7 @@ function HeroSection() {
     <section>
       <Heading>
         It's time to trade, the <span>future.</span>
+        
       </Heading>
       <HeadingPara>
         Trade BTC, ETH, Futures With 125x Leverage And Earn Rewards.

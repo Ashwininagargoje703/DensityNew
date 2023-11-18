@@ -9,6 +9,7 @@ const Header = ({ siteTitle }) => {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
     background-color: #08130a;
     padding-block: 24px;
   `
